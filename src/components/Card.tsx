@@ -5,7 +5,7 @@ interface CardProps {
   titulo: string;
 }
 
-export function Card({ imagem, titulo }: CardProps) {
+export function Card({ imagem }: CardProps) {
   return (
     <div 
       className="card"
