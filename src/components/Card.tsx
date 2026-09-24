@@ -3,7 +3,6 @@ import "./Card.css";
 
 interface CardProps {
   imagem: string;
-  titulo: string;
   mensagem: string;
 }
 
