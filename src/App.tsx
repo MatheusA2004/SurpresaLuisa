@@ -29,10 +29,22 @@ function App() {
       </div>
       
       <div>
-        <Card imagem={Cachorros} titulo="Cachorros"/>
-        <Card imagem={Dormida} titulo="dormida" />
-        <Card imagem={Ufrj} titulo="dormida" />
-        <Card imagem={Rock} titulo="dormida" />
+        <Card 
+          imagem={Cachorros} 
+          mensagem="Paris foi uma das partes mais especiais da nossa viagem ❤️"
+        />
+        <Card
+          imagem={Dormida}  
+          mensagem="Paris foi uma das partes mais especiais da nossa viagem ❤️"
+         />
+        <Card
+          imagem={Ufrj}  
+          mensagem="Paris foi uma das partes mais especiais da nossa viagem ❤️"
+         />
+        <Card
+          imagem={Rock}  
+          mensagem="Paris foi uma das partes mais especiais da nossa viagem ❤️"
+         />
       </div>
       
     </>

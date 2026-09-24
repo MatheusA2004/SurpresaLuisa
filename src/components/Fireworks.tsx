@@ -84,7 +84,7 @@ export function Fireworks() {
         y: window.innerHeight,
         targetY:
           Math.random() * window.innerHeight * 0.45 + 50,
-        speed: 3 + Math.random() * 3,
+        speed: 7 + Math.random() * 3,
         color:
           colors[Math.floor(Math.random() * colors.length)],
       });
