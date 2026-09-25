@@ -4,3 +4,14 @@
      font-family: "Roboto Mono", monospace;
      margin-left: 12px;
 }
+
+.footer{
+     margin-top: 40px;
+     margin-bottom: 40px;
+}
+
+.instrucao{
+     text-align: center;
+     margin-top: 50px;
+     margin-bottom: 30px;
+}
